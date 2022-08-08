@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NadraManagementGUI.Admin" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QeQAAAAbICQAARAnMYGgAAACAIJDNQgEACAIEKRhACA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.LoginHome" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACQAAAAAAAEAAAAAAAAiA=</HashCode>
+      <FileName>LoginHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.LoginScreen" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIIAQICAhQBAAgACYAAACEAAAUAAACAAAAQBIAAA=</HashCode>
+      <FileName>LoginScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.SignUp" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABAQACAhAAgQIACSAAICAAAAAAAAAAAAAQBIAgA=</HashCode>
+      <FileName>SignUpScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmAddCitizen" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Q/SJIIIdICgBwxgnEACAggwCCoJLMYoEAmSIUIRBASE=</HashCode>
+      <FileName>frmAddCitizen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmAddUser" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABAQACAgAAAQAACQgAICAAAAAAAAAAAAAQBAAgA=</HashCode>
+      <FileName>frmAddUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmApplicantCovid" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAgECAABAAAAACAAAACgAACAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>frmApplicantCovid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmComplaint" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAARAAIgCAAAACAAAAAAAAgEAAAEAAAAA=</HashCode>
+      <FileName>frmComplaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmCovid" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAEAEKAABAAACEGAgAACAAAAAAAAgEAAAAAAAAA=</HashCode>
+      <FileName>frmCovid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmCovidCard" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAABAEICAAAAAAAACAAABCgAAAEAAAAAAACADAAAg=</HashCode>
+      <FileName>frmCovidCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmDelete" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AaAAChAZICAAABAHAAGAACACgAFmEQgAgGACEIQgAGA=</HashCode>
+      <FileName>frmDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmDeleteAccount" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAABACAJAAAAAAGAAAACgAEAAAAAgAAAAIABAAA=</HashCode>
+      <FileName>frmDeleteAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmHealthInspect" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAEACAgABAAACDwAAYCAAEIAAAAgEAAAQAAADA=</HashCode>
+      <FileName>frmHealthInspect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmInvoice" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAACJCAEKgADABAAEGAgCAKgABAAECAwGggEQIAACA=</HashCode>
+      <FileName>frmInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmSortedCitizen" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QaCAAAAZICAAABIHAACAAAACAIBjEQhAgCAAEIRhACA=</HashCode>
+      <FileName>frmSortedCitizen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmTokenNo" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABACAAAAAAQACAAAACAAAgAAAAgEAAAEAAAAA=</HashCode>
+      <FileName>frmTokenNo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmTrackApplication" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABACACACABAAgACgBAACwAAAAQAAQEBAAEAEAQA=</HashCode>
+      <FileName>frmTrackApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmViewComplaint" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACgIQAAAAAAAAAAQAIAAA=</HashCode>
+      <FileName>frmViewComplaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmApplicant" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIQAAQAZgCAQADCgAACgABQCAIIDEAgCgAgAAABBICA=</HashCode>
+      <FileName>frmApplicant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmApplicantComplaint" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAYACAAAhAQAACACAACAAAAQIAAAEAIIIABAAA=</HashCode>
+      <FileName>frmApplicantComplaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmApplicantHealth" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAACAAAACAAAAAAAACAAAACgAAIAAAAAEAEAAAAAAA=</HashCode>
+      <FileName>frmApplicantHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmSehatApp" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QeQBOAQbICQAARAnAYGgAAACAKZjdQgEgCAKEKRhAKA=</HashCode>
+      <FileName>frmSehatApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmSearchCitizen" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QeIAAAA9ICAAABAHAKDAAAYCAoFLEQgAgGAIEIRBACA=</HashCode>
+      <FileName>frmSearchCitizen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmCnic" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAMiAABBAAAlCAAAACgAAAIgAAgERAAAAAAAg=</HashCode>
+      <FileName>frmCnic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmComplaintReply" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAADAgAABAAACQIAACAAAAQRAQAEQAISBAAAA=</HashCode>
+      <FileName>frmComplaintReply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.frmGraphicalStat" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QfAAAAAZICAAAxAHCICAAAACCohLEQgEgGAAEIRhACA=</HashCode>
+      <FileName>frmGraphicalStat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.BL.citizen">
+    <Position X="8.75" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EABEABCARAgAwACIAFQAiAU0AAQHICAFAgAgAwAAAAo=</HashCode>
+      <FileName>BL\Citizen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.BL.MUser">
+    <Position X="6.5" Y="12.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAACAAAAAgAAQAAAAMAAAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.BL.Complaint">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAAABACAAAQAgAAAAAAUAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Complaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.DL.citizenCRUD">
+    <Position X="11.5" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QSAAAAACAIAAAAAABAABAAQGBAAAAAAAAYJAwAUkAIA=</HashCode>
+      <FileName>DL\CitizenCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.DL.ComplaintCRUD">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAIAAAAAAAAABAAAQAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DL\ComplaintCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.DL.MUserCRUD">
+    <Position X="4.25" Y="12.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAABAIAABgAAAAAIAAAACAAAAAAEAAAA=</HashCode>
+      <FileName>DL\MUserCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadraManagementGUI.Communication">
+    <Position X="15.25" Y="12" Width="1.5" />
+    <Members>
+      <Field Name="delStatus" Hidden="true" />
+      <Property Name="DelStatus" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AIABAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAAQA=</HashCode>
+      <FileName>Communication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
